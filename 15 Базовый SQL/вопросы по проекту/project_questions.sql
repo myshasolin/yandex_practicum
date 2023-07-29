@@ -387,8 +387,8 @@ acquisitions AS (
 SELECT 
     f.months, 
     f.count_name, 
-    COALESCE(a.seller, 0) AS seller, 
-    COALESCE(a.sum_total, 0) AS sum_total
+    a.seller AS seller, 
+    a.sum_total AS sum_total
 FROM 
     fundings f
     LEFT JOIN acquisitions a ON f.months = a.months;
