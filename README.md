@@ -1,4 +1,10 @@
-# yandex_practicum
+<center>
+  <h1>
+    <a href="https://github.com/myshasolin/yandex_practicum">
+      здесь представлены некоторые проекты, выполненные во время обучения в Yandex Practicum по направлению Data Science
+    </a>
+  </h1>
+</center>
 
 
 <table style="border: 2px double;">
@@ -18,10 +24,10 @@
       </a>
     </td>
     <td>
-      исследование статистики платёжеспособности клиентов банка<br> с целью проверки гипотезы о том, что семейное положение <br> и количество детей в семьях клиентов влияют на факты <br> погашения клиентами кредитов в срок
+      исследование статистики платёжеспособности клиентов банка с целью проверки гипотезы о том, что семейное положение и количество детей в семьях клиентов влияют на факты погашения клиентами кредитов в срок
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn
+      numpy, pandas, matplotlib, seaborn, sklearn
     </td>
   </tr>
   <tr>
@@ -34,10 +40,10 @@
       </a>
     </td>
     <td>
-      поиск параметров, которые влияют на рыночную стоимость <br> объектов недвижимости и помогут в дальнейшем построить <br> автоматизированную систему отслеживания аномалий в цене <br> на недвижимость и пресекать мошенническую деятельность
+      поиск параметров, которые влияют на рыночную стоимость объектов недвижимости и помогут в дальнейшем построить автоматизированную систему отслеживания аномалий в цене на недвижимость и пресекать мошенническую деятельность
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn
+      numpy, pandas, matplotlib, seaborn
     </td>
   </tr>
   <tr>
@@ -50,10 +56,10 @@
       </a>
     </td>
     <td>
-       выявление определяющих успешность игры закономерностей, <br>которые позволят сделать ставку на потенциально популярный <br>продукт и спланировать рекламные кампании на предстоящий год
+       выявление определяющих успешность игры закономерностей, которые позволят сделать ставку на потенциально популярный продукт и спланировать рекламные кампании на предстоящий год
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, scipy, colorama <br> warnings
+      numpy, pandas, matplotlib, seaborn, scipy, colorama, warnings
     </td>
   </tr>
   <tr>
@@ -66,10 +72,10 @@
       </a>
     </td>
     <td>
-      построение модели для задачи бинарной классификации, <br>которая выберет подходящий тариф
+      построение модели для задачи бинарной классификации, которая выберет подходящий тариф
     </td>
     <td>
-      numpy, pandas, matplotlib <br> warnings, joblib, sklearn
+      numpy, pandas, matplotlib, warnings, joblib, sklearn
     </td>
   </tr>
   <tr>
@@ -82,10 +88,10 @@
       </a>
     </td>
     <td>
-      построение модели бинарной классификации, <br>прогнозирующей клиентский отток из банка
+      построение модели бинарной классификации, прогнозирующей клиентский отток из банка
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn, scipy <br> joblib, warnings
+      numpy, pandas, matplotlib, seaborn, sklearn, scipy, joblib, warnings
     </td>
   </tr>
   <tr>
@@ -98,10 +104,10 @@
       </a>
     </td>
     <td>
-      построение Machine Learning-модели, которая поможет определить <br>регион, где добыча нефти принесёт наибольшую прибыль
+      построение Machine Learning-модели, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn, joblib, os
+      numpy, pandas, matplotlib, seaborn, sklearn, joblib, os
     </td>
   </tr>
   <tr>
@@ -114,10 +120,10 @@
       </a>
     </td>
     <td>
-      подготовка прототипа Machine Learning-модели для оптимизации <br>производственного цикла восстановления золота
+      подготовка прототипа Machine Learning-модели для оптимизации производственного цикла восстановления золота
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, scipy, sklearn, os <br> colorama, time, copy, joblib <br> warnings, re
+      numpy, pandas, matplotlib, seaborn, scipy, sklearn, os, colorama, time, copy, joblib, warnings, re
     </td>
   </tr>
   <tr>
@@ -130,10 +136,10 @@
       </a>
     </td>
     <td>
-      разработка метода защиты персональных данных клиентов путём <br>преобразования данных при помощи матричных операций
+      разработка метода защиты персональных данных клиентов путём преобразования данных при помощи матричных операций
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn
+      numpy, pandas, matplotlib, seaborn, sklearn
     </td>
   </tr>
   <tr>
@@ -146,10 +152,10 @@
       </a>
     </td>
     <td>
-      построение Machine Learning-модели, определяющей стоимость <br>авто по анкетным данным объявления о продаже
+      построение Machine Learning-модели, определяющей стоимость, авто по анкетным данным объявления о продаже
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn, joblib, os<br>itertools, time, colorama<br> scipy, catboost, lightgbm, xgboost
+      numpy, pandas, matplotlib, seaborn, sklearn, joblib, os, itertools, time, colorama, scipy, catboost, lightgbm, xgboost
     </td>
   </tr>
   <tr>
@@ -162,10 +168,10 @@
       </a>
     </td>
     <td>
-      построение Machine Learning-модели для прогноза количества<br> заказов такси на ближайший час
+      построение Machine Learning-модели для прогноза количества заказов такси на ближайший час
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn, joblib, os<br> itertools, re, statsmodels <br>warnings, catboost, lightgbm 
+      numpy, pandas, matplotlib, seaborn, sklearn, joblib, os, itertools, re, statsmodels, warnings, catboost, lightgbm 
     </td>
   </tr>
   <tr>
@@ -178,10 +184,10 @@
       </a>
     </td>
     <td>
-       построение Machine Learning-модели бинарной классификации, <br> обученной классифицировать пользовательские комментарии <br> и находить среди них негативные
+       построение Machine Learning-модели бинарной классификации, обученной классифицировать пользовательские комментарии и находить среди них негативные
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, sklearn, os, gs <br> pickle, requests, string <br> transformers, xgboost <br> warnings, tqdm, nltk, torch
+      numpy, pandas, matplotlib, seaborn, sklearn, os, gs, pickle, requests, string, transformers, xgboost, warnings, tqdm, nltk, torch
     </td>
   </tr>
   <tr>
@@ -210,10 +216,10 @@
       </a>
     </td>
     <td>
-       построение Machine Learning-модели, которая по <br> фотографии определяет возраст человека
+       построение Machine Learning-модели, которая по фотографии определяет возраст человека
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, tensorflow
+      numpy, pandas, matplotlib, seaborn, tensorflow
     </td>
   </tr>
   <tr>
@@ -222,14 +228,14 @@
     </td>
     <td>
       <a href="https://github.com/myshasolin/yandex_practicum/blob/main/17%20%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb">
-        Финальный проект <br> Прогноз оттока клиентов телекоммуникационной компании
+        Финальный проект <br><br> Прогноз оттока клиентов телекоммуникационной компании
       </a>
     </td>
     <td>
-       построение Machine Learning-модели, способной находить <br> клиентов, склонных к оттоку
+       построение Machine Learning-модели, способной находить клиентов, склонных к оттоку
     </td>
     <td>
-      numpy, pandas, matplotlib <br> seaborn, joblib, cowsay, os <br> warnings, datetime, phik, shap <br> scipy, catboost, colorama
+      numpy, pandas, matplotlib, seaborn, joblib, cowsay, os, warnings, datetime, phik, shap, scipy, catboost, colorama
     </td>
   </tr>
   <!-- Добавьте остальные строки таблицы здесь -->
