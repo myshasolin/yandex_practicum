@@ -238,7 +238,4 @@
       numpy, pandas, matplotlib, seaborn, sklearn, joblib, cowsay, os, warnings, datetime, phik, shap, scipy, catboost, colorama
     </td>
   </tr>
-  <!-- Добавьте остальные строки таблицы здесь -->
 </table>
-
-
