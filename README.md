@@ -1,5 +1,5 @@
 <center>
-  <h1>
+  <h2>
     <a href="https://github.com/myshasolin/yandex_practicum">
       здесь представлены некоторые проекты, выполненные во время обучения в Yandex Practicum по направлению Data Science
     </a>
