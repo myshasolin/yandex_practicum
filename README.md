@@ -107,7 +107,7 @@
       построение Machine Learning-модели, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль
     </td>
     <td>
-      numpy, pandas, matplotlib, seaborn, sklearn, joblib, os
+      numpy, pandas, matplotlib, seaborn, sklearn, joblib, os 
     </td>
   </tr>
   <tr>
